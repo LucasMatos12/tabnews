@@ -1,2 +1,2 @@
 # tabnews
-projeto inicio programcao
+projeto inicio programacao
